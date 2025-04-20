@@ -14,8 +14,8 @@ This project is a simple terminal-based stopwatch built in C. It displays time i
 ### 💻 How to Run
 
 ```bash
-gcc stopwatch.c -o stopwatch
-./stopwatch
+gcc clock.c -o clock
+./clock
 ```
 
 > Make sure you're on Linux or macOS. On Windows, use `system("cls")` instead of `system("clear")` and `Sleep(1000)` instead of `sleep(1)`.
@@ -44,7 +44,7 @@ gcc stopwatch.c -o stopwatch
 ```
 stopwatch/
 │
-├── stopwatch.c     # Main source code
+├── clock.c     # Main source code
 └── README.md       # Project info
 ```
 
@@ -61,6 +61,6 @@ stopwatch/
 
 ### 👨‍💻 Author
 
-Created by Ansh Bhardwaj] — feel free to fork or improve the project!
+Created by Ansh-4 — feel free to fork or improve the project!
 
 ---
